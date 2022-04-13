@@ -1,5 +1,5 @@
+_extends: .github
 repository:
-  default_branch: main
   description: Use this template for creating Amazon Machine Images with Packer
   name: template
   topics: packer
