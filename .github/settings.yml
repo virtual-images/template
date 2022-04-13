@@ -2,4 +2,5 @@ _extends: .github
 repository:
   description: Use this template for creating Amazon Machine Images with Packer
   name: template
+  private: false
   topics: packer
